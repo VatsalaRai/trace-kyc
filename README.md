@@ -4,7 +4,7 @@
 
 An independent product management case study and a clickable prototype about how people start, track, fix and update their KYC with an Indian broker. It is not an official product of any broker or KYC provider, it never touches real verification systems, and everything in the demo is fictional.
 
-Live demo: not deployed yet. See `DEPLOYMENT_CHECKLIST.md`. Release status and evidence: `RELEASE_AUDIT.md`.
+   Live demo: https://vatsalarai.github.io/trace-kyc/
 
 ---
 
